@@ -1,6 +1,6 @@
 import abc
 
-from game import gSnake
+from game import Snake
 
 
 class UI(abc.ABC):
